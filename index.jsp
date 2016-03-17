@@ -54,6 +54,7 @@
 				border-radius:36px;
 				border:1px solid #77B2F5;
 			}
+			#load-more:active{
 				background-color: antiquewhite;
 			}
 				
@@ -714,4 +715,3 @@
 	    {{/each}}
 	</script>
 </html>
-
